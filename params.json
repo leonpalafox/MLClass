@@ -1,6 +1,6 @@
 {
   "name": "Mlclass",
   "tagline": "ML Class",
-  "body": "**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*\r\n\r\n- [MLClass](#)\r\n\r\n***\r\n\r\n\r\n# MLClass\r\n\r\n#Requisites\r\nThis is the website for the Machine Learning Class for Planetary Sciences\r\n\r\n- Super Python\r\n",
+  "body": "**Table of Contents**  \r\n\r\n- [MLClass](#)\r\n- [Requisites](#)\r\n\r\n***\r\n\r\n\r\n# Syllabus\r\n\r\nThis class is oriented \r\n\r\n# Requisites\r\n\r\n- Install Python (https://www.python.org/downloads/)\r\n- Install Pandas\r\n- Install Scikit-Learn\r\n- Install Numpy\r\n- Install Scipy\r\n\r\n## Alternative\r\n\r\n- Install Canopy (Free for students and staff)\r\n\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
