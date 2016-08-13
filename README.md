@@ -40,7 +40,7 @@ This class is oriented
     5. Convolutional Neural Networks
 4. Validation Methods (Week 7-8, 1 assignment)
   1. Cross Validation
-  2.Bias – Variance Analysis
+  2. Bias – Variance Analysis
 5. Supervised Learning within the context of Planetary Science (Week 9-10)
 6. Unsupervised Learning Techniques (Week 11-15, 1 assignments, 1 quiz)
   1. Clustering
