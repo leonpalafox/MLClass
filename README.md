@@ -28,30 +28,30 @@ This class is oriented
   1. What is Machine Learning?
   2. Modern applications of Machine Learning.
 2.	Fundamentals (Week 1-2, 1 assignment)
-a.	Matrix Algebra
-b.	Probability Distributions
+  1. Matrix Algebra
+  2. Probability Distributions
 3.	Supervised Learning Techniques. (Week 3-6, 1 assignments, 1 quiz)
-a.	Regression
-b.	Classification
-i.	Logistic Regression.
-ii.	Support Vector Machines.
-iii.	Artificial Neural Networks
-iv.	Deep Learning
-v.	Convolutional Neural Networks
-4.	Validation Methods (Week 7-8, 1 assignment)
-a.	Cross Validation
-b.	Bias – Variance Analysis
-5.	Supervised Learning within the context of Planetary Science (Week 9-10)
-6.	Unsupervised Learning Techniques (Week 11-15, 1 assignments, 1 quiz)
-a.	Clustering
-i.	K-Means
-ii.	Gaussian Mixture Models
-iii.	Applications
-b.	Dimensionality Reduction techniques
-i.	Principal Component Analysis
-ii.	Independent Component Analysis
-iii.	T-SNE
-7.	Unsupervised Learning within the context of Planetary Science (Week 15-16)
-8.	Final Project Presentations (Week 17)
+  1. Regression
+  2. Classification
+    1. Logistic Regression.
+    2. Support Vector Machines.
+    3. Artificial Neural Networks
+    4. Deep Learning
+    5. Convolutional Neural Networks
+4. Validation Methods (Week 7-8, 1 assignment)
+  1. Cross Validation
+  2.Bias – Variance Analysis
+5. Supervised Learning within the context of Planetary Science (Week 9-10)
+6. Unsupervised Learning Techniques (Week 11-15, 1 assignments, 1 quiz)
+  1. Clustering
+    1. K-Means
+    2. Gaussian Mixture Models
+    3. Applications
+  2. Dimensionality Reduction techniques
+    1. Principal Component Analysis
+    2. Independent Component Analysis
+    3. T-SNE
+7. Unsupervised Learning within the context of Planetary Science (Week 15-16)
+8. Final Project Presentations (Week 17)
 
 
