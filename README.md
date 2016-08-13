@@ -25,8 +25,8 @@ This class is oriented
 # Schedule
 
 1.	Introduction (Week 1)
-  What is Machine Learning?
-  Modern applications of Machine Learning.
+  1. What is Machine Learning?
+  2. Modern applications of Machine Learning.
 2.	Fundamentals (Week 1-2, 1 assignment)
 a.	Matrix Algebra
 b.	Probability Distributions
