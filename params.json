@@ -1,6 +1,6 @@
 {
   "name": "Mlclass",
   "tagline": "ML Class",
-  "body": "# MLClass\r\n\r\n\r\n\r\nPyMC does have dependencies to run, namely NumPy and (optionally) SciPy. To not limit the user, the examples in this book will rely only on PyMC, NumPy, SciPy and Matplotlib only.\r\n",
+  "body": "**Table of Contents** \r\n***\r\n\r\n\r\n# MLClass\r\n\r\n#Requisites\r\nThis is the website for the Machine Learning Class for Planetary Sciences\r\n\r\n- Super Python\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
