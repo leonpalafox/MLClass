@@ -6,9 +6,21 @@
 ***
 
 
-# MLClass
+# Syllabus
+
+This class is oriented 
 
 # Requisites
-This is the website for the Machine Learning Class for Planetary Sciences
 
-- Super Python
+- Install Python (https://www.python.org/downloads/)
+- Install Pandas
+- Install Scikit-Learn
+- Install Numpy
+- Install Scipy
+
+## Alternative
+
+- Install Canopy (Free for students and staff)
+
+
+
