@@ -26,14 +26,16 @@ The evaluation will consist of:
 - Final Project will be 60% of the Final Evaluation.
     - The final project will consist in the correct use and validation of one Machine Learning technique in a dataset related to the student field of study.
 	- The students can form teams of up to three persons.
-o	Graduate students and teams need to write an 8-page report on the data, methodology and conclusions. In addition, make a 10-minute presentation of their work.
-o	Undergraduate students and teams need to write a 5-page report on the data, methodology and conclusions. They can write an 8-page report for extra credit. Students have to make a 5-minute presentation of their work. Students can do a 10-minute presentation for extra credit.
-o	Teams consisting of Graduate and Undergraduate students need to write an 8-page report and prepare a 10-minute presentation. Undergraduate students in the team will be given extra credit.
-•	In class participation will be 40% of the Final Evaluation
-o	In class participation will consist on programming assignments, assigned readings reports and two quizzes. 
-	Graduate students quizzes will consists of five questions and Undergraduate students’ quizzes will consist of four questions. Undergraduate students can answer the five questions for extra credit.
-o	Assignments for Graduate students will have extra requirements. Undergraduate students can meet these requirements for extra credit.
+	- Graduate students and teams need to write an 8-page report on the data, methodology and conclusions. In addition, make a 10-minute presentation of their work.
+	- Undergraduate students and teams need to write a 5-page report on the data, methodology and conclusions. They can write an 8-page report for extra credit. Students have to make a 5-minute presentation of their work. Students can do a 10-minute presentation for extra credit.
+	- Teams consisting of Graduate and Undergraduate students need to write an 8-page report and prepare a 10-minute presentation. Undergraduate students in the team will be given extra credit.
+- In class participation will be 40% of the Final Evaluation
+	- In class participation will consist on programming assignments, assigned readings reports and two quizzes. 
+		- Graduate students quizzes will consists of five questions and Undergraduate students’ quizzes will consist of four questions. Undergraduate students can answer the five questions for extra credit.
+	- Assignments for Graduate students will have extra requirements. Undergraduate students can meet these requirements for extra credit.
+
 There will be an additional 10% extra credit opportunity by submitting additional reports, extracurricular projects and extra participation during the classes.
+
 Homework assignments submitted after the established due date will be accepted. Assignments submitted after the due date will have a penalty of 20%.
 
 
