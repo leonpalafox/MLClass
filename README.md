@@ -21,7 +21,7 @@ Lectures, homework assignments and general information on the course will be ava
 ##Office Hours
 I will be available for questions and discussions after lectures. I will have office hours from 13:00 – 14:00 on Tuesdays and Thursdays. Otherwise, the students can make an appointment.
 
-Evaluation:
+#Evaluation:
 The evaluation will consist of:
 - Final Project will be 60% of the Final Evaluation.
     - The final project will consist in the correct use and validation of one Machine Learning technique in a dataset related to the student field of study.
@@ -37,6 +37,19 @@ The evaluation will consist of:
 There will be an additional 10% extra credit opportunity by submitting additional reports, extracurricular projects and extra participation during the classes.
 
 Homework assignments submitted after the established due date will be accepted. Assignments submitted after the due date will have a penalty of 20%.
+
+#Grading
+Final project: 60%
+
+In-class participation: 40%
+
+Grades are assigned as follows:
+
+-	A≥90%
+-	B≥75% and <90%
+-	C≥60% and <75%
+-	D≥50% and <60%
+-	F<50%
 
 
 
