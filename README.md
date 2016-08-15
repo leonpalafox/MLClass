@@ -3,6 +3,13 @@
 - [Overview](#)
 - [Objective](#)
 - [Course Structure](#)
+- [Evaluation](#)
+- [Grading](#)
+- [Absence Policies](#)
+- [Schedule](#)
+- [Required Texts](#)
+- [Policies](#)
+- [Changes](#) 
 
 ***
 #Overview
@@ -51,19 +58,20 @@ Grades are assigned as follows:
 -	D≥50% and <60%
 -	F<50%
 
+#Absence Policies:
+Attendance to normal sessions is not mandatory.
 
+In case of extraordinary circumstances and the students miss either of the quizzes; there will be opportunity for an additional quiz. The instructor will set the date of the make-up quiz. There will be only a single date for additional quizzes.
 
-# Requisites
+Circumstances that merit an additional quiz are:
+- Observance of religious holidays
+- Sickness 
+- Absences preapproved by the UA Dean of Students (or Dean’s designee)
+- Field Trips / Conferences / Meetings
+#Number of required examinations and papers
+For Graduate students, there will be two quizzes, four assignments and one final project.
 
-- Install Python (https://www.python.org/downloads/)
-- Install Pandas
-- Install Scikit-Learn
-- Install Numpy
-- Install Scipy
-
-## Alternative
-
-- Install Canopy (Free for students and staff)
+For Undergraduate students, there will be two quizzes, four assignments and one final project.
 
 # Schedule
 
@@ -97,4 +105,39 @@ Grades are assigned as follows:
 7. Unsupervised Learning within the context of Planetary Science (Week 15-16)
 8. Final Project Presentations (Week 17)
 
+#Required Texts:
+
+The course has no mandatory text and is self-contained; however, the following books are helpful resources for students:
+- Bishop, Christopher M. Pattern recognition and machine learning. Springer, 2006. (http://www.dcs.gla.ac.uk/~srogers/firstcourseml/ , Available Online at the UA Library webpage)
+- Rogers, Simon, and Mark Girolami. A first course in machine learning. CRC Press, 2011. 
+- James, Gareth, et al. An introduction to statistical learning. New York: Springer, 2013. (http://www-bcf.usc.edu/~gareth/ISL/)
+- Petersen, Kaare Brandt, and Michael Syskind Pedersen. The matrix cookbook. Technical University of Denmark 7 (2008): 15. (https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+
+#Special Material required for class:
+The students will need access to a Personal Computer with the Matlab Scientific Program or the Python Programming environment
+
+#Policies:
+The students will be able to use pagers/cellphones in the classroom as long as they set them up in silence mode. 
+
+##Academic Integrity Policy
+Students are encouraged to share intellectual views and discuss freely the principles and applications of course materials. However, graded work/exercises must be the product of independent effort unless otherwise instructed. Students are expected to adhere to the UA Code of Academic Integrity as described in the UA General Catalog. See http://deanofstudents.arizona.edu/academic-integrity/students/academic-integrity.
+
+##Threatening behavior Policy
+Threatening Behavior is prohibited.
+
+The UA Threatening Behavior by Students Policy prohibits threats of physical harm to any member of the University community, including to oneself. See http://policy.arizona.edu/education-and-student-affairs/threatening-behavior-students.
+
+##Accessibility and Accommodations:
+It is the University’s goal that learning experiences be as accessible as possible.  If you anticipate or experience physical or academic barriers based on disability or pregnancy, please let me know immediately so that we can discuss options.  You are also welcome to contact Disability Resources (520-621-3268) to establish reasonable accommodations.
+
+Please be aware that the accessible table and chairs in this room should remain available for students who find that standard classroom seating is not usable.
+
+##Notification on offensive content:
+Some of the datasets used to exemplify Machine Learning algorithms might content topics like rape, murder, deaths by cancer, diabetes and other illnesses.
+UA Nondiscrimination and Anti-harassment Policy 
+The University is committed to creating and maintaining an environment free of discrimination; see http://policy.arizona.edu/human-resources/nondiscrimination-and-anti-harassment-policy.
+Our classroom is a place where everyone is encouraged to express well-formed opinions and their reasons for those opinions. We also want to create a tolerant and open environment where such opinions can be expressed without resorting to bullying or discrimination of others.
+
+#Changes
+The information contained in this syllabus other than grade and absence policies may be subject to change with reasonable advance notice.
 
