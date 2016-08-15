@@ -1,14 +1,26 @@
 **Table of Contents**  
 
-- [MLClass](#)
-- [Requisites](#)
+- [Overview](#)
+- [Objective](#)
+- [Course Structure](#)
 
 ***
+#Overview
 
+We will focus in the study of Machine Learning techniques, and their applications. Emphasis will be on geological, planetary and astronomical applications. Course will cover basic and state of the art techniques, as well as validation techniques for each algorithm.
 
-# Syllabus
+#Objective
 
-This class is oriented 
+Students will be able to implement and validate different Machine Learning techniques in datasets related to Planetary Sciences, Earth Sciences and Astronomy. Students will learn the difference between supervised and unsupervised learning.
+
+#Course Structure:
+##Lecture Times:
+Two lectures will be held per week on Mondays and Wednesdays from 10:00 AM to 10:50 AM. Both lectures will be in room 312 in the Kuiper Space Sciences Building.
+##Course Website:
+Lectures, homework assignments and general information on the course will be available online in the following website: http://www.lpl.arizona.edu/~leonp/MachineLearningPTYS.
+##Office Hours
+I will be available for questions and discussions after lectures. I will have office hours from 13:00 – 14:00 on Tuesdays and Thursdays. Otherwise, the students can make an appointment.
+
 
 # Requisites
 
