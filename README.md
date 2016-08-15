@@ -75,7 +75,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 
 # Schedule
 
-1.	Introduction (Week 1)
+1.	[Introduction] (http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter1Introduction/Introduction.ipynb) (Week 1)
   1. What is Machine Learning?
   2. Modern applications of Machine Learning.
 2.	Fundamentals (Week 1-2, 1 assignment)
