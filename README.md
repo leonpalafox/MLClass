@@ -1,5 +1,16 @@
 **Table of Contents**  
 
+
+<div id="TOC">
+   <ol>
+	  <li> <a href="#prologue">Prologue</a>
+	  <li> <a href="#contents">Contents</a> 
+	  <li> <a href="#examples">Examples</a>
+	  <li> <a href="#using-the-book">Reading and Installation Instructions</a>
+	  <li> <a href="#development">Development </a>
+	</ol>
+
+</div>
 - [Overview](#)
 - [Objective](#)
 - [Course Structure](#)
@@ -24,7 +35,7 @@ Students will be able to implement and validate different Machine Learning techn
 ##Lecture Times:
 Two lectures will be held per week on Mondays and Wednesdays from 10:00 AM to 10:50 AM. Both lectures will be in room 312 in the Kuiper Space Sciences Building.
 ##Course Website:
-Lectures, homework assignments and general information on the course will be available online in the following website: http://www.lpl.arizona.edu/~leonp/MachineLearningPTYS.
+Lectures, homework assignments and general information on the course will be available online in the following website: https://leonpalafox.github.io/MLClass/
 ##Office Hours
 I will be available for questions and discussions after lectures. I will have office hours from 13:00 – 14:00 on Tuesdays and Thursdays. Otherwise, the students can make an appointment.
 
@@ -78,6 +89,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 1.	[Introduction] (http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter1Introduction/Introduction.ipynb?flush_cache=true) (Week 1)
   1. What is Machine Learning?
   2. Modern applications of Machine Learning.
+  3. Python-Pandas Introduction.
 2.	Fundamentals (Week 1-2, 1 assignment)
   1. Matrix Algebra
   2. Probability Distributions
