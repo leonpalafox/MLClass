@@ -1,24 +1,9 @@
 **Table of Contents**  
 
 
-<div id="TOC">
-   <ol>
-	  <li> <a href="#Overview">Overview</a>
-	  <li> <a href="#Objective">Objective</a> 
-	  <li> <a href="#Course Structure">Course Structure</a>
-	  <li> <a href="#Evaluation">Evaluation</a>
-	  <li> <a href="#Absence Policies">Absence Policies</a>
-	  <li> <a href="#Schedule">Schedule</a>
-	  <li> <a href="#Required Texts">Required Texts</a>
-	  <li> <a href="#Policies">Policies</a>
-	  <li> <a href="#Changes">Changes</a>
-	</ol>
-
-</div>
 
 ***
 #Overview
-<h2 id="tips">Overview</h2>
 We will focus in the study of Machine Learning techniques, and their applications. Emphasis will be on geological, planetary and astronomical applications. Course will cover basic and state of the art techniques, as well as validation techniques for each algorithm.
 
 #Objective
