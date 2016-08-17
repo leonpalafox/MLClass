@@ -1,5 +1,22 @@
 **Table of Contents**  
-
+- [Overview](#)
+- [Objective](#)
+- [Course Structure:](#)
+	- [Lecture Times:](#)
+	- [Course Website:](#)
+	- [Office Hours](#)
+- [Evaluation:](#)
+- [Grading](#)
+- [Absence Policies:](#)
+- [Schedule](#)
+- [Required Texts:](#)
+- [Special Material required for class:](#)
+- [Policies:](#)
+	- [Academic Integrity Policy](#)
+	- [Threatening behavior Policy](#)
+	- [Accessibility and Accommodations:](#)
+	- [Notification on offensive content:](#)
+- [Changes](#)
 
 
 ***
