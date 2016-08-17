@@ -1,5 +1,5 @@
 **Table of Contents**  
-- [Overview](#Overview)
+- [Overview](#overview)
 - [Objective](#Objective)
 - [Course Structure:](#Course Structure)
 	- [Lecture Times](#Lecture Times)
