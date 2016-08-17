@@ -1,6 +1,6 @@
 **Table of Contents**  
 - [Overview](#overview)
-- [Objective](#Objective)
+- [Objective](#objective)
 - [Course Structure:](#Course Structure)
 	- [Lecture Times](#Lecture Times)
 	- [Course Website](#Course Website)
