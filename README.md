@@ -3,24 +3,18 @@
 
 <div id="TOC">
    <ol>
-	  <li> <a href="#prologue">Prologue</a>
-	  <li> <a href="#contents">Contents</a> 
-	  <li> <a href="#examples">Examples</a>
-	  <li> <a href="#using-the-book">Reading and Installation Instructions</a>
-	  <li> <a href="#development">Development </a>
+	  <li> <a href="#Overview">Overview</a>
+	  <li> <a href="#Objective">Objective</a> 
+	  <li> <a href="#Course Structure">Course Structure</a>
+	  <li> <a href="#Evaluation">Evaluation</a>
+	  <li> <a href="#Absence Policies">Absence Policies</a>
+	  <li> <a href="#Schedule">Schedule</a>
+	  <li> <a href="#Required Texts">Required Texts</a>
+	  <li> <a href="#Policies">Policies</a>
+	  <li> <a href="#Changes">Changes</a>
 	</ol>
 
 </div>
-- [Overview](#)
-- [Objective](#)
-- [Course Structure](#)
-- [Evaluation](#)
-- [Grading](#)
-- [Absence Policies](#)
-- [Schedule](#)
-- [Required Texts](#)
-- [Policies](#)
-- [Changes](#) 
 
 ***
 #Overview
