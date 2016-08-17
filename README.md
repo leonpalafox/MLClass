@@ -108,8 +108,8 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 #Required Texts:
 
 The course has no mandatory text and is self-contained; however, the following books are helpful resources for students:
-- Bishop, Christopher M. Pattern recognition and machine learning. Springer, 2006. (http://www.dcs.gla.ac.uk/~srogers/firstcourseml/ , Available Online at the UA Library webpage)
-- Rogers, Simon, and Mark Girolami. A first course in machine learning. CRC Press, 2011. 
+- Bishop, Christopher M. Pattern recognition and machine learning. Springer, 2006. 
+- Rogers, Simon, and Mark Girolami. A first course in machine learning. CRC Press, 2011. (http://www.dcs.gla.ac.uk/~srogers/firstcourseml/ , Available Online at the UA Library webpage)
 - James, Gareth, et al. An introduction to statistical learning. New York: Springer, 2013. (http://www-bcf.usc.edu/~gareth/ISL/)
 - Petersen, Kaare Brandt, and Michael Syskind Pedersen. The matrix cookbook. Technical University of Denmark 7 (2008): 15. (https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
