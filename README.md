@@ -71,7 +71,9 @@ Circumstances that merit an additional quiz are:
 - Sickness 
 - Absences preapproved by the UA Dean of Students (or Dean’s designee)
 - Field Trips / Conferences / Meetings
+
 #Number of required examinations and papers
+
 For Graduate students, there will be two quizzes, four assignments and one final project.
 
 For Undergraduate students, there will be two quizzes, four assignments and one final project.
