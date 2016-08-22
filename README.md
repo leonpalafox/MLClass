@@ -83,7 +83,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 1.	[Introduction] (http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter1Introduction/Introduction.ipynb?flush_cache=true) (Week 1)
   1. What is Machine Learning?
   2. Modern applications of Machine Learning.
-  3. Python-Pandas Introduction.
+  3. Python-Pandas Introduction. (http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter1Introduction/Introduction_PythonPandas.ipynb?flush_cache=true)
 2.	Fundamentals (Week 1-2, 1 assignment)
   1. Matrix Algebra
   2. Probability Distributions
