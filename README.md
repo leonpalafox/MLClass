@@ -86,8 +86,8 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
   2. Modern applications of Machine Learning.
   3. [Python-Pandas Introduction.] (http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter1Introduction/Introduction_PythonPandas.ipynb?flush_cache=true)
 2.	Fundamentals (Week 1-2, 1 assignment)
-  1. Matrix Algebra 
-  2. Probability Distributions
+  1. Matrix Algebra (http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/MatrixAlgebra.ipynb)
+  2. Probability Distributions (http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/Probability%20Distributions.ipynb)
 3.	Supervised Learning Techniques. (Week 3-6, 1 assignments, 1 quiz)
   1. Regression
   2. Classification
@@ -114,8 +114,8 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 
 # Slides
 
-- [Lecture 1 - Intro, Front matter] (slides/PTYS545B_Lecture1.pdf)
-- [Lecture 2 - Outline] (slides/PTYS545B_Lecture2.pdf)
+- [Lecture 1 - Intro, Front matter] (Slides/PTYS545B_Lecture1.pdf)
+- [Lecture 2 - Outline] (Slides/PTYS545B_Lecture2.pdf)
 
 # Notes
 
