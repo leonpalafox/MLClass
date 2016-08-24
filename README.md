@@ -115,7 +115,11 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 # Slides
 
 - [Lecture 1 - Intro, Front matter] (slides/PTYS545B_Lecture1.pdf)
-- [Lecture 2 - Outline] (slides/PTYS545B_Lecture1.pdf)
+- [Lecture 2 - Outline] (slides/PTYS545B_Lecture2.pdf)
+
+# Notes
+
+- [Lecture 1 - Ali M. Bramson] (Notes/Lecture1_notes_Bramson.pdf)
 
 #Required Texts
 
