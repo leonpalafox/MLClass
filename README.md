@@ -10,6 +10,7 @@
 - [Absence Policies](#absence-policies)
 - [Schedule](#schedule)
 - [Slides](#slides)
+- [QA Site](#qa-site)
 - [Required Texts](#required-texts)
 - [Special Material required for class](#special-material-required-for-class)
 - [Policies](#policies)
@@ -120,6 +121,10 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 # Notes
 
 - [Lecture 1 - Ali M. Bramson] (Notes/Lecture1_notes_Bramson.pdf)
+
+# QA Site
+
+- We will be using Piazza (http://piazza.com/arizona/fall2016/ptys595b)
 
 #Required Texts
 
