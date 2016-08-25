@@ -121,6 +121,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 # Notes
 
 - [Lecture 1 - Ali M. Bramson] (Notes/Lecture1_notes_Bramson.pdf)
+- [Lecture 2 - Jessie Brown] (Notes/Lecture2_notes_Brown.pdf)
 
 # QA Site
 
