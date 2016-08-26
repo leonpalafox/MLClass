@@ -115,13 +115,13 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 
 # Slides
 
-- [Lecture 1 - Intro, Front matter] (Slides/PTYS545B_Lecture1.pdf)
-- [Lecture 2 - Outline] (Slides/PTYS545B_Lecture2.pdf)
+- [Lecture 1 - Intro, Front matter] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture1.pdf)
+- [Lecture 2 - Outline] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture2.pdf)
 
 # Notes
 
-- [Lecture 1 - Ali M. Bramson] (Notes/Lecture1_notes_Bramson.pdf)
-- [Lecture 2 - Jessie Brown] (Notes/Lecture2_notes_Brown.pdf)
+- [Lecture 1 - Ali M. Bramson] (https://github.com/leonpalafox/MLClass/blob/master/Notes/Lecture1_notes_Bramson.pdf)
+- [Lecture 2 - Jessie Brown] (https://github.com/leonpalafox/MLClass/blob/master/Notes/Lecture2_notes_Brown.pdf)
 
 # QA Site
 
