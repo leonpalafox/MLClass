@@ -123,11 +123,11 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 
 - [Lecture 1 - Ali M. Bramson] (https://github.com/leonpalafox/MLClass/blob/master/Notes/Lecture1_notes_Bramson.pdf)
 - [Lecture 2 - Jessie Brown] (https://github.com/leonpalafox/MLClass/blob/master/Notes/Lecture2_notes_Brown.pdf)
-- [Lecture 2 - Jessie Brown] (https://github.com/leonpalafox/MLClass/blob/master/Notes/Lecture2_notes_Brown.pdf)
+- [Lecture 3 - Ali M. Bramson] (https://github.com/leonpalafox/MLClass/blob/master/Notes/Lecture3_notes_Bramson.pdf)
 
 # Assignments
 
-- [Homework 1] (https://github.com/leonpalafox/MLClass/blob/master/Assigments/HW1.pdf)
+- [Homework 1] (https://github.com/leonpalafox/MLClass/blob/master/Assignments/HW1.pdf)
 
 # QA Site
 
