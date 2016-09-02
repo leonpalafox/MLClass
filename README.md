@@ -10,6 +10,7 @@
 - [Absence Policies](#absence-policies)
 - [Schedule](#schedule)
 - [Slides](#slides)
+- [Assignments](#assignments)
 - [QA Site](#qa-site)
 - [Required Texts](#required-texts)
 - [Special Material required for class](#special-material-required-for-class)
@@ -117,11 +118,16 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 
 - [Lecture 1 - Intro, Front matter] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture1.pdf)
 - [Lecture 2 - Outline] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture2.pdf)
-
+- [Lecture 2 - Outline] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture3.pdf)
 # Notes
 
 - [Lecture 1 - Ali M. Bramson] (https://github.com/leonpalafox/MLClass/blob/master/Notes/Lecture1_notes_Bramson.pdf)
 - [Lecture 2 - Jessie Brown] (https://github.com/leonpalafox/MLClass/blob/master/Notes/Lecture2_notes_Brown.pdf)
+- [Lecture 2 - Jessie Brown] (https://github.com/leonpalafox/MLClass/blob/master/Notes/Lecture2_notes_Brown.pdf)
+
+# Assignments
+
+- [Homework 1] (https://github.com/leonpalafox/MLClass/blob/master/Assigments/HW1.pdf)
 
 # QA Site
 
