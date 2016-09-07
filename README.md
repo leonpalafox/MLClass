@@ -91,7 +91,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
   1. [Matrix Algebra] (http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/MatrixAlgebra.ipynb)
   2. [Probability Distributions] (http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/Probability%20Distributions.ipynb)
 3.	Supervised Learning Techniques. (Week 3-6, 1 assignments, 1 quiz)
-  1. Regression
+  1. Regression [First Example](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter3Regression/Regression.ipynb?flush_cache=true)
   2. Classification
     1. Logistic Regression.
     2. Support Vector Machines.
