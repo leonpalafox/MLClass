@@ -92,6 +92,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
   2. [Probability Distributions] (http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/Probability%20Distributions.ipynb)
 3.	Supervised Learning Techniques. (Week 3-6, 1 assignments, 1 quiz)
   1. Regression [First Example](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter3Regression/Regression.ipynb?flush_cache=true) [Slides](https://www.dropbox.com/s/6awx8suyrnazpr3/PTYS545B_Lecture4.pptx?dl=0)
+  [Second Example](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter3Regression/Regression%202.ipynb) [Data Science](https://github.com/leonpalafox/MLClass/blob/master/Chapter3Regression/House%20Prices%20Analysis.ipynb) 
   2. Classification
     1. Logistic Regression.
     2. Support Vector Machines.
