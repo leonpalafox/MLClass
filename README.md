@@ -91,8 +91,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
   1. [Matrix Algebra] (http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/MatrixAlgebra.ipynb)
   2. [Probability Distributions] (http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/Probability%20Distributions.ipynb)
 3.	Supervised Learning Techniques. (Week 3-6, 1 assignments, 1 quiz)
-  1. Regression [First Example](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter3Regression/Regression.ipynb?flush_cache=true) [Slides](https://www.dropbox.com/s/6awx8suyrnazpr3/PTYS545B_Lecture4.pptx?dl=0)
-  [Second Example](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter3Regression/Regression%202.ipynb) [Data Science](https://github.com/leonpalafox/MLClass/blob/master/Chapter3Regression/House%20Prices%20Analysis.ipynb) 
+  1. Regression [First Example](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter3Regression/Regression.ipynb?flush_cache=true)[Second Example](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter3Regression/Regression%202.ipynb) [Data Science](https://github.com/leonpalafox/MLClass/blob/master/Chapter3Regression/House%20Prices%20Analysis.ipynb) 
   2. Classification
     1. Logistic Regression.
     2. Support Vector Machines.
@@ -120,6 +119,10 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 - [Lecture 1 - Intro, Front matter] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture1.pdf)
 - [Lecture 2 - Outline] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture2.pdf)
 - [Lecture 3 - Probability] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture3.pdf)
+- [Lecture 4 - Linear Regression] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture4.pdf)
+- [Lecture 5 - Linear Regression Part 2] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture5.pdf)
+- [Lecture 6 - Logistic Regression Part 1] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture6.pdf)
+
 
 # Notes
 
