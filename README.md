@@ -94,7 +94,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
   1. Regression [First Example](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter3Regression/Regression.ipynb?flush_cache=true) [Second Example](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter3Regression/Regression%202.ipynb) [Data Science](https://github.com/leonpalafox/MLClass/blob/master/Chapter3Regression/House%20Prices%20Analysis.ipynb) 
   2. Classification
     1. [Logistic Regression.](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter3Regression/LogisticRegression.ipynb)
-    2. Support Vector Machines.
+    2. [Support Vector Machines.](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter4SVM/svmnotebook.ipynb)
     3. Artificial Neural Networks
     4. Deep Learning
     5. Convolutional Neural Networks
@@ -121,7 +121,8 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 - [Lecture 3 - Probability] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture3.pdf)
 - [Lecture 4 - Linear Regression] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture4.pdf)
 - [Lecture 5 - Linear Regression Part 2] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture5.pdf)
-- [Lecture 6 - Logistic Regression Part 1] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture6.pdf)
+- [Lecture 6 - Logistic Regression] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture6.pdf)
+- [Lecture 7 - Support Vector Machine] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture7.pdf)
 
 
 # Notes
