@@ -94,7 +94,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
   1. Regression [First Example](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter3Regression/Regression.ipynb?flush_cache=true) [Second Example](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter3Regression/Regression%202.ipynb) [Data Science](https://github.com/leonpalafox/MLClass/blob/master/Chapter3Regression/House%20Prices%20Analysis.ipynb) 
   2. Classification
     1. [Logistic Regression.](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter3Regression/LogisticRegression.ipynb)
-    2. [Support Vector Machines.](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter4SVMs/svmnotebook.ipynb)
+    2. [Support Vector Machines.](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter4SVMs/SVMNotebook.ipynb)
     3. Artificial Neural Networks
     4. Deep Learning
     5. Convolutional Neural Networks
