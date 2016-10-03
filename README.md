@@ -96,7 +96,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
     1. [Logistic Regression.](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter3Regression/LogisticRegression.ipynb)
     2. [Support Vector Machines.](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter4SVMs/SVMNotebook.ipynb)
     3. Artificial Neural Networks
-    4. Deep Learning
+    4. [Deep Learning](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter5NNs/AutoEoncoderNN.ipynb)
     5. Convolutional Neural Networks
 4. Validation Methods (Week 7-8, 1 assignment)
   1. Cross Validation
