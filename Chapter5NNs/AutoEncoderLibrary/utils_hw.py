@@ -1,6 +1,7 @@
 #This is a set of utilities to run the NN excersis in ISTA 421, Introduction to ML
 #By Leon F. Palafox, December, 2014
 import numpy as np
+#This is our activation function
 def sigmoid(x):
     return 1 / (1 + np.exp(-x))
 

@@ -126,6 +126,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 - [Lecture 8 - Support Vector Machine] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture8.pdf)
 - [Lecture 9 - Neural Networks] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture9.pdf)
 - [Lecture 10 - Neural Networks and Autoencoders] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture10.pdf)
+- [Lecture 11 - Neural Networks and Autoencoders] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture11.pdf)
 
 
 # Notes

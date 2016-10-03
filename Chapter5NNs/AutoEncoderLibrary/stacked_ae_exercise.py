@@ -12,8 +12,8 @@ import sys
 
 input_size = 28 * 28
 num_classes = 10
-hidden_size_L1 = 20  # Layer 1 Hidden Size
-hidden_size_L2 = 20  # Layer 2 Hidden Size
+hidden_size_L1 = 40  # Layer 1 Hidden Size
+hidden_size_L2 = 40  # Layer 2 Hidden Size
 lambda_ = 3e-3  # weight decay parameter
 
 ##======================================================================
@@ -39,7 +39,7 @@ sae1_theta = utils_hw.initialize(hidden_size_L1, input_size)
 
 J = lambda x: utils_hw.sparse_autoencoder_cost(x, input_size, hidden_size_L1,
                                                          lambda_, train_images)
-options_ = {'maxiter': 400, 'disp': True}
+options_ = {'maxiter': 400, 'disp': False}
 
 result = scipy.optimize.minimize(J, sae1_theta, method='L-BFGS-B', jac=True, options=options_)
 sae1_opt_theta = result.x
@@ -49,7 +49,7 @@ print result
 W1 = sae1_opt_theta[0:hidden_size_L1 * input_size].reshape(hidden_size_L1, input_size).transpose()
 display_network.display_network(W1)
 
-sys.exit()
+
 ##======================================================================
 ## STEP 3: Train the second sparse autoencoder
 #  This trains the second sparse autoencoder on the first autoencoder
@@ -66,7 +66,7 @@ sae2_theta = sparse_autoencoder.initialize(hidden_size_L2, hidden_size_L1)
 J = lambda x: utils_hw.sparse_autoencoder_cost(x, hidden_size_L1, hidden_size_L2,
                                                          lambda_, sae1_features)
 
-options_ = {'maxiter': 400, 'disp': True}
+options_ = {'maxiter': 400, 'disp': False}
 
 result = scipy.optimize.minimize(J, sae2_theta, method='L-BFGS-B', jac=True, options=options_)
 sae2_opt_theta = result.x
@@ -83,7 +83,7 @@ print result
 sae2_features = sparse_autoencoder.sparse_autoencoder(sae2_opt_theta, hidden_size_L2,
                                                       hidden_size_L1, sae1_features)
 
-options_ = {'maxiter': 400, 'disp': True}
+options_ = {'maxiter': 400, 'disp': False}
 
 softmax_theta, softmax_input_size, softmax_num_classes = softmax.softmax_train(hidden_size_L2, num_classes,
                                                                                lambda_, sae2_features,
@@ -112,7 +112,7 @@ J = lambda x: stacked_autoencoder.stacked_autoencoder_cost(x, input_size, hidden
                                                            num_classes, net_config, lambda_,
                                                            train_images, train_labels)
 
-options_ = {'maxiter': 400, 'disp': True}
+options_ = {'maxiter': 400, 'disp': False}
 result = scipy.optimize.minimize(J, stacked_autoencoder_theta, method='L-BFGS-B', jac=True, options=options_)
 stacked_autoencoder_opt_theta = result.x
 
