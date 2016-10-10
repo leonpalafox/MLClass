@@ -128,6 +128,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 - [Lecture 10 - Neural Networks and Autoencoders] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture10.pdf)
 - [Lecture 11 - Neural Networks and Autoencoders] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture11.pdf)
 - [Lecture 12 - Convolutional Neural Networks] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture12.pdf)
+- [Lecture 13 - Convolutional Neural Networks] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture13.pdf)
 
 # Notes
 
