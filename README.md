@@ -98,6 +98,8 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
     3. Artificial Neural Networks
     4. [Deep Learning](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter5NNs/AutoEoncoderNN.ipynb)
     5. Convolutional Neural Networks [Convolutions Example](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter5NNs/ConvolutionsExample.ipynb)
+		1. [TensorFlow Classifier](https://github.com/leonpalafox/MLClass/blob/master/Chapter5NNs/TensorFlow/CNNDemo.py)
+		2. [TensorFlow CNN](https://github.com/leonpalafox/MLClass/blob/master/Chapter5NNs/TensorFlow/CNNDemo.py)
 4. Validation Methods (Week 7-8, 1 assignment)
   1. Cross Validation
   2. Bias – Variance Analysis
@@ -129,6 +131,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 - [Lecture 11 - Neural Networks and Autoencoders] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture11.pdf)
 - [Lecture 12 - Convolutional Neural Networks] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture12.pdf)
 - [Lecture 13 - Convolutional Neural Networks] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture13.pdf)
+- [Lecture 14 - Convolutional Neural Networks] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture14.pdf)
 
 # Notes
 
