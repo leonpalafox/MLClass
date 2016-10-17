@@ -132,6 +132,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 - [Lecture 12 - Convolutional Neural Networks] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture12.pdf)
 - [Lecture 13 - Convolutional Neural Networks] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture13.pdf)
 - [Lecture 14 - Convolutional Neural Networks] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture14.pdf)
+- [Lecture 15 - Validation Methods] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture15.pdf)
 
 # Notes
 
