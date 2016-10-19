@@ -139,6 +139,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 - [Lecture 1 - Ali M. Bramson] (https://github.com/leonpalafox/MLClass/blob/master/Notes/Lecture1_notes_Bramson.pdf)
 - [Lecture 2 - Jessie Brown] (https://github.com/leonpalafox/MLClass/blob/master/Notes/Lecture2_notes_Brown.pdf)
 - [Lecture 3 - Ali M. Bramson] (https://github.com/leonpalafox/MLClass/blob/master/Notes/Lecture3_notes_Bramson.pdf)
+- [Linear Regression - Ali M. Bramson] (https://github.com/leonpalafox/MLClass/blob/master/Notes/Linear Regression - Bramson_MLnotes_2016-09-19.pdf)
 
 # Assignments
 
