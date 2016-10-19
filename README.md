@@ -101,7 +101,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 		1. [TensorFlow Classifier](https://github.com/leonpalafox/MLClass/blob/master/Chapter5NNs/TensorFlow/CNNDemo.py)
 		2. [TensorFlow CNN](https://github.com/leonpalafox/MLClass/blob/master/Chapter5NNs/TensorFlow/CNNDemo.py)
 4. Validation Methods (Week 7-8, 1 assignment)
-  1. [Cross Validation](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter6Validation/crossvalidationregression.ipynb)
+  1. [Cross Validation](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter6Validation/CrossValidationRegression.ipynb)
   2. Bias – Variance Analysis
 5. Supervised Learning within the context of Planetary Science (Week 9-10)
 6. Unsupervised Learning Techniques (Week 11-15, 1 assignments, 1 quiz)
