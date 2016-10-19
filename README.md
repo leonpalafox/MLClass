@@ -139,7 +139,11 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 - [Lecture 1 - Ali M. Bramson] (https://github.com/leonpalafox/MLClass/blob/master/Notes/Lecture1_notes_Bramson.pdf)
 - [Lecture 2 - Jessie Brown] (https://github.com/leonpalafox/MLClass/blob/master/Notes/Lecture2_notes_Brown.pdf)
 - [Lecture 3 - Ali M. Bramson] (https://github.com/leonpalafox/MLClass/blob/master/Notes/Lecture3_notes_Bramson.pdf)
+- [Logistic Regression - Alexander Prescott] (https://github.com/leonpalafox/MLClass/blob/master/Notes/LogisticRegression - 09142016_notes_Prescott.pdf)
 - [Linear Regression - Ali M. Bramson] (https://github.com/leonpalafox/MLClass/blob/master/Notes/Linear Regression - Bramson_MLnotes_2016-09-19.pdf)
+- [SVMs - Ali M. Bramson] (https://github.com/leonpalafox/MLClass/blob/master/Notes/SVMs - Bramson_MLnotes_2016-09-21.pdf)
+- [NN - Ali M. Bramson] (https://github.com/leonpalafox/MLClass/blob/master/Notes/NN - Bramson_MLnotes_2016-09-26.pdf)
+- [NN - Ali M. Bramson] (https://github.com/leonpalafox/MLClass/blob/master/Notes/NN - Bramson_MLnotes_2016-09-28.pdf)
 
 # Assignments
 
