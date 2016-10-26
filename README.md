@@ -103,7 +103,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 4. Validation Methods (Week 7-8, 1 assignment)
   1. [Cross Validation](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter6Validation/CrossValidationRegression.ipynb)
   2. Bias – Variance Analysis
-  3. [ROC and AUC] ()
+  3. [ROC and AUC] (http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter6Validation/ROC%20and%20AUC.ipynb)
 5. Supervised Learning within the context of Planetary Science (Week 9-10)
 6. Unsupervised Learning Techniques (Week 11-15, 1 assignment, 1 quiz)
   1. Clustering
