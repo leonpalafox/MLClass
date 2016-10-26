@@ -103,8 +103,9 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 4. Validation Methods (Week 7-8, 1 assignment)
   1. [Cross Validation](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter6Validation/CrossValidationRegression.ipynb)
   2. Bias – Variance Analysis
+  3. [ROC and AUC] ()
 5. Supervised Learning within the context of Planetary Science (Week 9-10)
-6. Unsupervised Learning Techniques (Week 11-15, 1 assignments, 1 quiz)
+6. Unsupervised Learning Techniques (Week 11-15, 1 assignment, 1 quiz)
   1. Clustering
     1. K-Means
     2. Gaussian Mixture Models
@@ -133,6 +134,9 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 - [Lecture 13 - Convolutional Neural Networks] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture13.pdf)
 - [Lecture 14 - Convolutional Neural Networks] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture14.pdf)
 - [Lecture 15 - Validation Methods] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture15.pdf)
+- Lecture 16 - Validation Methods (This class was a done completely in a Python notebook)
+- [Lecture 17 - Quiz and Bias-Variance] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture17.pdf)
+- [Lecture 18 - ROC an AUC] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture18.pdf)
 
 # Notes
 
