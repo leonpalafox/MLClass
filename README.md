@@ -136,7 +136,12 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 - [Lecture 15 - Validation Methods] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture15.pdf)
 - Lecture 16 - Validation Methods (This class was a done completely in a Python notebook)
 - [Lecture 17 - Quiz and Bias-Variance] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture17.pdf)
-- [Lecture 18 - ROC an AUC] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture18.pdf)
+- [Lecture 18 - ROC and AUC] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture18.pdf)
+- [Lecture 19 - ROC and Applications of Machine Learning] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture19.pdf)
+- [Lecture 20 - Applications of Machine Learning - Planetary Science] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture20.pdf)
+- [Lecture 21 - Applications of Machine Learning - Planetary Science] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture21.pdf)
+- [Lecture 22 - Applications of Machine Learning - Planetary Science] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture22.pdf)
+- [Lecture 23 - Unsupervised Learning] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture23.pdf)
 
 # Notes
 
