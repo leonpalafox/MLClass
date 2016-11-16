@@ -107,7 +107,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 5. Supervised Learning within the context of Planetary Science (Week 9-10)
 6. Unsupervised Learning Techniques (Week 11-15, 1 assignment, 1 quiz)
   1. Clustering
-    1. K-Means
+    1. [K-Means](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter7Clustering/KMeansExample.ipynb)
     2. Gaussian Mixture Models
     3. Applications
   2. Dimensionality Reduction techniques
@@ -142,6 +142,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 - [Lecture 21 - Applications of Machine Learning - Planetary Science] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture21.pdf)
 - [Lecture 22 - Applications of Machine Learning - Planetary Science] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture22.pdf)
 - [Lecture 23 - Unsupervised Learning] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture23.pdf)
+- [Lecture 24 - K Means] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture24.pdf)
 
 # Notes
 
