@@ -159,6 +159,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 
 - [Homework 1] (https://github.com/leonpalafox/MLClass/blob/master/Assignments/HW1.pdf)
 - [Homework 2] (https://github.com/leonpalafox/MLClass/blob/master/Assignments/HW2.pdf)
+- [Homework 3] (https://github.com/leonpalafox/MLClass/blob/master/Assignments/HW3.pdf)
 
 # QA Site
 
