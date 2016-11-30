@@ -108,11 +108,10 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 6. Unsupervised Learning Techniques (Week 11-15, 1 assignment, 1 quiz)
   1. Clustering
     1. [K-Means](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter7Clustering/KMeansExample.ipynb)
-    2. Gaussian Mixture Models
-    3. Applications
+    2. Applications
   2. Dimensionality Reduction techniques
-    1. Principal Component Analysis
-    2. Independent Component Analysis
+    1. (Principal Component Analysis)[https://github.com/leonpalafox/MLClass/blob/master/Chapter8PCAICA/PCA%20Analysis.ipynb] 
+    2. [Independent Component Analysis](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter8PCAICA/ICA%20analysis.ipynb)
     3. T-SNE
 7. Unsupervised Learning within the context of Planetary Science (Week 15-16)
 8. Final Project Presentations (Week 17)
@@ -143,6 +142,8 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 - [Lecture 22 - Applications of Machine Learning - Planetary Science] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture22.pdf)
 - [Lecture 23 - Unsupervised Learning] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture23.pdf)
 - [Lecture 24 - K Means] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture24.pdf)
+- [Lecture 25 - Principal Component Analysis] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture25.pdf)
+- [Lecture 26 - Independent Component Analysis] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture26.pdf)
 
 # Notes
 
