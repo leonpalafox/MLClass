@@ -29,15 +29,23 @@ We will focus in the study of Machine Learning techniques, and their application
 Students will be able to implement and validate different Machine Learning techniques in datasets related to Planetary Sciences, Earth Sciences and Astronomy. Students will learn the difference between supervised and unsupervised learning.
 
 # Course Structure
+
 ## Lecture Times
+
 Two lectures will be held per week on Mondays and Wednesdays from 10:00 AM to 10:50 AM. Both lectures will be in room 312 in the Kuiper Space Sciences Building.
+
 ## Course Website
+
 Lectures, homework assignments and general information on the course will be available online in the following website: https://leonpalafox.github.io/MLClass/
+
 ## Office Hours
+
 I will be available for questions and discussions after lectures. I will have office hours from 13:00 – 14:00 on Tuesdays and Thursdays. Otherwise, the students can make an appointment.
 
 # Evaluation
+
 The evaluation will consist of:
+
 - Final Project will be 60% of the Final Evaluation.
     - The final project will consist in the correct use and validation of one Machine Learning technique in a dataset related to the student field of study.
 	- The students can form teams of up to three persons.
@@ -72,6 +80,7 @@ Attendance to normal sessions is not mandatory.
 In case of extraordinary circumstances and the students miss either of the quizzes; there will be opportunity for an additional quiz. The instructor will set the date of the make-up quiz. There will be only a single date for additional quizzes.
 
 Circumstances that merit an additional quiz are:
+
 - Observance of religious holidays
 - Sickness 
 - Absences preapproved by the UA Dean of Students (or Dean’s designee)
@@ -180,40 +189,48 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 
 - We will be using Piazza (http://piazza.com/arizona/fall2016/ptys595b)
 
-#Required Texts
+# Required Texts
 
 The course has no mandatory text and is self-contained; however, the following books are helpful resources for students:
+
 - Bishop, Christopher M. Pattern recognition and machine learning. Springer, 2006. 
 - Rogers, Simon, and Mark Girolami. A first course in machine learning. CRC Press, 2011. (http://www.dcs.gla.ac.uk/~srogers/firstcourseml/ , Available Online at the UA Library webpage)
 - James, Gareth, et al. An introduction to statistical learning. New York: Springer, 2013. (http://www-bcf.usc.edu/~gareth/ISL/)
 - Petersen, Kaare Brandt, and Michael Syskind Pedersen. The matrix cookbook. Technical University of Denmark 7 (2008): 15. (https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
-#Special Material required for class
+# Special Material required for class
+
 The students will need access to a Personal Computer with the Matlab Scientific Program or the Python Programming environment
 
-#Policies
+# Policies
+
 The students will be able to use pagers/cellphones in the classroom as long as they set them up in silence mode. 
 
-##Academic Integrity Policy
+## Academic Integrity Policy
+
 Students are encouraged to share intellectual views and discuss freely the principles and applications of course materials. However, graded work/exercises must be the product of independent effort unless otherwise instructed. Students are expected to adhere to the UA Code of Academic Integrity as described in the UA General Catalog. See http://deanofstudents.arizona.edu/academic-integrity/students/academic-integrity.
 
-##Threatening behavior Policy
-Threatening Behavior is prohibited.
+## Threatening behaviour Policy
 
-The UA Threatening Behavior by Students Policy prohibits threats of physical harm to any member of the University community, including to oneself. See http://policy.arizona.edu/education-and-student-affairs/threatening-behavior-students.
+Threatening Behaviour is prohibited.
 
-##Accessibility and Accommodations
+The UA Threatening Behaviour by Students Policy prohibits threats of physical harm to any member of the University community, including to oneself. See http://policy.arizona.edu/education-and-student-affairs/threatening-behavior-students.
+
+## Accessibility and Accommodations
+
 It is the University’s goal that learning experiences be as accessible as possible.  If you anticipate or experience physical or academic barriers based on disability or pregnancy, please let me know immediately so that we can discuss options.  You are also welcome to contact Disability Resources (520-621-3268) to establish reasonable accommodations.
 
 Please be aware that the accessible table and chairs in this room should remain available for students who find that standard classroom seating is not usable.
 
-##Notification on offensive content
+## Notification on offensive content
+
 Some of the datasets used to exemplify Machine Learning algorithms might content topics like rape, murder, deaths by cancer, diabetes and other illnesses.
 UA Nondiscrimination and Anti-harassment Policy 
 The University is committed to creating and maintaining an environment free of discrimination; see http://policy.arizona.edu/human-resources/nondiscrimination-and-anti-harassment-policy.
 Our classroom is a place where everyone is encouraged to express well-formed opinions and their reasons for those opinions. We also want to create a tolerant and open environment where such opinions can be expressed without resorting to bullying or discrimination of others.
 
-#Changes
+# Changes
+
 The information contained in this syllabus other than grade and absence policies may be subject to change with reasonable advance notice.
 
 
