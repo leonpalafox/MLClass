@@ -1,22 +1,22 @@
 **Table of Contents**  
-- [Overview](#overview)
-- [Objective](#objective)
-- [Course Structure:](#course-structure)
-	- [Lecture Times](#lecture-times)
-	- [Course Website](#course-website)
-	- [Office Hours](#office-hours)
-- [Evaluation](#evaluation)
-- [Grading](#grading)
-- [Absence Policies](#absence-policies)
-- [Schedule](#schedule)
-- [Slides](#slides)
-- [Assignments](#assignments)
-- [Final Projects](#final-projects)
-- [QA Site](#qa-site)
-- [Required Texts](#required-texts)
-- [Special Material required for class](#special-material-required-for-class)
-- [Policies](#policies)
-- [Changes](#changes)
+-[Overview](#overview)
+-[Objective](#objective)
+-[Course Structure:](#course-structure)
+	-[Lecture Times](#lecture-times)
+	-[Course Website](#course-website)
+	-[Office Hours](#office-hours)
+-[Evaluation](#evaluation)
+-[Grading](#grading)
+-[Absence Policies](#absence-policies)
+-[Schedule](#schedule)
+-[Slides](#slides)
+-[Assignments](#assignments)
+-[Final Projects](#final-projects)
+-[QA Site](#qa-site)
+-[Required Texts](#required-texts)
+-[Special Material required for class](#special-material-required-for-class)
+-[Policies](#policies)
+-[Changes](#changes)
 
 
 # Overview
@@ -214,6 +214,5 @@ Our classroom is a place where everyone is encouraged to express well-formed opi
 
 #Changes
 The information contained in this syllabus other than grade and absence policies may be subject to change with reasonable advance notice.
-
 
 
