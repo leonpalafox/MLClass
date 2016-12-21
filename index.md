@@ -11,15 +11,16 @@
 - [Schedule](#schedule)
 - [Slides](#slides)
 - [Assignments](#assignments)
+- [Final Projects](#final-projects)
 - [QA Site](#qa-site)
 - [Required Texts](#required-texts)
 - [Special Material required for class](#special-material-required-for-class)
 - [Policies](#policies)
 - [Changes](#changes)
 
-
 ***
 # Overview
+
 We will focus in the study of Machine Learning techniques, and their applications. Emphasis will be on geological, planetary and astronomical applications. Course will cover basic and state of the art techniques, as well as validation techniques for each algorithm.
 
 #Objective
@@ -144,6 +145,9 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 - [Lecture 24 - K Means] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture24.pdf)
 - [Lecture 25 - Principal Component Analysis] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture25.pdf)
 - [Lecture 26 - Independent Component Analysis] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture26.pdf)
+- [Lecture 27 - t-SNE] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture27.pdf)
+- [Lecture 28 - Final Lecture] (https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture28.pdf)
+
 
 # Notes
 
@@ -155,12 +159,21 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 - [SVMs - Ali M. Bramson] (https://github.com/leonpalafox/MLClass/blob/master/Notes/SVMs - Bramson_MLnotes_2016-09-21.pdf)
 - [NN - Ali M. Bramson] (https://github.com/leonpalafox/MLClass/blob/master/Notes/NN - Bramson_MLnotes_2016-09-26.pdf)
 - [NN - Ali M. Bramson] (https://github.com/leonpalafox/MLClass/blob/master/Notes/NN - Bramson_MLnotes_2016-09-28.pdf)
+- [Overview of the first half of the class - Alexander Prescott](https://github.com/leonpalafox/MLClass/blob/master/Notes/midtermpaper.pdf)
 
 # Assignments
 
 - [Homework 1] (https://github.com/leonpalafox/MLClass/blob/master/Assignments/HW1.pdf)
 - [Homework 2] (https://github.com/leonpalafox/MLClass/blob/master/Assignments/HW2.pdf)
 - [Homework 3] (https://github.com/leonpalafox/MLClass/blob/master/Assignments/HW3.pdf)
+
+# Final Projects
+
+- [Using t-SNE to analyse exoplanets](https://github.com/leonpalafox/MLClass/blob/master/FinalProjects/AnalysisofExoplanets.pdf)
+- [Analysis of the ice distribution of Arcadia Planitia](https://github.com/leonpalafox/MLClass/blob/master/FinalProjects/IceDistributionArcadia.pdf)
+- [Analysis of the Kuiper Belt populations](https://github.com/leonpalafox/MLClass/blob/master/FinalProjects/KuiperBeltPopulations.pdf)
+- [Using NN to map dunes distribution](https://github.com/leonpalafox/MLClass/blob/master/FinalProjects/MappingDunes.pdf)
+
 
 # QA Site
 
@@ -201,4 +214,5 @@ Our classroom is a place where everyone is encouraged to express well-formed opi
 
 #Changes
 The information contained in this syllabus other than grade and absence policies may be subject to change with reasonable advance notice.
+
 
