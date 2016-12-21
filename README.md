@@ -18,7 +18,6 @@
 - [Policies](#policies)
 - [Changes](#changes)
 
-
 ***
 # Overview
 
@@ -215,4 +214,5 @@ Our classroom is a place where everyone is encouraged to express well-formed opi
 
 #Changes
 The information contained in this syllabus other than grade and absence policies may be subject to change with reasonable advance notice.
+
 
