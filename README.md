@@ -159,7 +159,7 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 - [SVMs - Ali M. Bramson] (https://github.com/leonpalafox/MLClass/blob/master/Notes/SVMs - Bramson_MLnotes_2016-09-21.pdf)
 - [NN - Ali M. Bramson] (https://github.com/leonpalafox/MLClass/blob/master/Notes/NN - Bramson_MLnotes_2016-09-26.pdf)
 - [NN - Ali M. Bramson] (https://github.com/leonpalafox/MLClass/blob/master/Notes/NN - Bramson_MLnotes_2016-09-28.pdf)
-- [Overview of the first half of the class - Alexander Prescott](https://github.com/leonpalafox/MLClass/blob/master/Notes/midtermNotes.pdf)
+- [Overview of the first half of the class - Alexander Prescott](https://github.com/leonpalafox/MLClass/blob/master/Notes/midtermpaper.pdf)
 
 # Assignments
 
@@ -169,10 +169,10 @@ For Undergraduate students, there will be two quizzes, four assignments and one 
 
 # Final Projects
 
-- [Using t-SNE to analyse exoplanets](https://github.com/leonpalafox/MLClass/blob/master/FinalProjects/AnalysisofExoplanets)
-- [Analysis of the ice distribution of Arcadia Planitia](https://github.com/leonpalafox/MLClass/blob/master/FinalProjects/IceDistributionArcadia)
-- [Analysis of the Kuiper Belt populations](https://github.com/leonpalafox/MLClass/blob/master/FinalProjects/KuiperBeltPopulations)
-- [Using NN to map dunes distribution](https://github.com/leonpalafox/MLClass/blob/master/FinalProjects/MappingDunes)
+- [Using t-SNE to analyse exoplanets](https://github.com/leonpalafox/MLClass/blob/master/FinalProjects/AnalysisofExoplanets.pdf)
+- [Analysis of the ice distribution of Arcadia Planitia](https://github.com/leonpalafox/MLClass/blob/master/FinalProjects/IceDistributionArcadia.pdf)
+- [Analysis of the Kuiper Belt populations](https://github.com/leonpalafox/MLClass/blob/master/FinalProjects/KuiperBeltPopulations.pdf)
+- [Using NN to map dunes distribution](https://github.com/leonpalafox/MLClass/blob/master/FinalProjects/MappingDunes.pdf)
 
 
 # QA Site
