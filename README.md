@@ -21,6 +21,7 @@
 
 ***
 # Overview
+
 We will focus in the study of Machine Learning techniques, and their applications. Emphasis will be on geological, planetary and astronomical applications. Course will cover basic and state of the art techniques, as well as validation techniques for each algorithm.
 
 #Objective
