@@ -23,19 +23,19 @@
 
 We will focus in the study of Machine Learning techniques, and their applications. Emphasis will be on geological, planetary and astronomical applications. Course will cover basic and state of the art techniques, as well as validation techniques for each algorithm.
 
-#Objective
+# Objective
 
 Students will be able to implement and validate different Machine Learning techniques in datasets related to Planetary Sciences, Earth Sciences and Astronomy. Students will learn the difference between supervised and unsupervised learning.
 
-#Course Structure
-##Lecture Times
+# Course Structure
+## Lecture Times
 Two lectures will be held per week on Mondays and Wednesdays from 10:00 AM to 10:50 AM. Both lectures will be in room 312 in the Kuiper Space Sciences Building.
-##Course Website
+## Course Website
 Lectures, homework assignments and general information on the course will be available online in the following website: https://leonpalafox.github.io/MLClass/
-##Office Hours
+## Office Hours
 I will be available for questions and discussions after lectures. I will have office hours from 13:00 – 14:00 on Tuesdays and Thursdays. Otherwise, the students can make an appointment.
 
-#Evaluation
+# Evaluation
 The evaluation will consist of:
 - Final Project will be 60% of the Final Evaluation.
     - The final project will consist in the correct use and validation of one Machine Learning technique in a dataset related to the student field of study.
@@ -52,7 +52,7 @@ There will be an additional 10% extra credit opportunity by submitting additiona
 
 Homework assignments submitted after the established due date will be accepted. Assignments submitted after the due date will have a penalty of 20%.
 
-#Grading
+# Grading
 Final project: 60%
 
 In-class participation: 40%
@@ -65,7 +65,7 @@ Grades are assigned as follows:
 -	D≥50% and <60%
 -	F<50%
 
-#Absence Policies
+# Absence Policies
 Attendance to normal sessions is not mandatory.
 
 In case of extraordinary circumstances and the students miss either of the quizzes; there will be opportunity for an additional quiz. The instructor will set the date of the make-up quiz. There will be only a single date for additional quizzes.
@@ -76,7 +76,7 @@ Circumstances that merit an additional quiz are:
 - Absences preapproved by the UA Dean of Students (or Dean’s designee)
 - Field Trips / Conferences / Meetings
 
-#Number of required examinations and papers
+# Number of required examinations and papers
 
 For Graduate students, there will be two quizzes, four assignments and one final project.
 
